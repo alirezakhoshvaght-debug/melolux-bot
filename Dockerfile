@@ -11,4 +11,3 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 CMD ["python", "melolux_editor_bot_full.py"]
-o
